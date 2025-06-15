@@ -1,0 +1,7 @@
+attrs
+h5py
+matplotlib
+networkx
+numpy
+scipy
+shapely
